@@ -1,2 +1,2 @@
 # test-automation-with-examples
-$pip install -r requirements.txt
+learn_pytest_bdd
