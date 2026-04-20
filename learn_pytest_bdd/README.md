@@ -1,5 +1,6 @@
 # BDD with pytest and selenium
-#On Mac 
+#On Mac
+
 $python3 -m venv .venv
 
 $source .venv/bin/activate
